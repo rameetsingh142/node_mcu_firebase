@@ -21,10 +21,10 @@
 #include <FirebaseArduino.h>
 
 // Set these to run example.
-#define FIREBASE_HOST "rameet123-250e2.firebaseio.com"
-#define FIREBASE_AUTH "Rk9KX6nSCwgTZQ3jovptWIcyUHdi5jvYJJv877GG"
-#define WIFI_SSID "rameet"
-#define WIFI_PASSWORD "0142PPpp"
+#define FIREBASE_HOST "firebase url"
+#define FIREBASE_AUTH "secret file code"
+#define WIFI_SSID "your wifi name"
+#define WIFI_PASSWORD "your wifi password"
 #define LED 2
 
 void setup() {
